@@ -14,8 +14,9 @@ bin-release/
 *.apk
 
 # Reach files
-.reach
+.reach/
 reach
+build/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
